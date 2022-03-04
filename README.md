@@ -2,7 +2,7 @@
 
 ## Summary
 
-IdentitySwap is an Automatic Money Market (AMM) dApp that 
+IdentitySwap is Automatic Money Market (AMM) dApp that 
 demonstrates the concept of Decentralised Identity on the 
 Solana SPL Token-Swap program. A user can interact with a 
 liquidity pool only if they are in possession of a valid 
